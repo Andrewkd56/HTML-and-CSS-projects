@@ -1,0 +1,12 @@
+p {
+	color: orange;
+	background: black;
+	font-weight: light;
+	text-align: right;
+	}
+	/* this is how to write comments in css */
+	/* text shadow property adds shadow to text */
+h1 {
+	color: blue;
+	text-shadow: 0 0 3px #FF0000;
+} /* here we added a blue text font to h1 and a red neon glow for the shadow. 
