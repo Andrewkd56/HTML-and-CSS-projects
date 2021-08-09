@@ -1,0 +1,8 @@
+/* we will style our html list */
+ol {
+	list-style-type: upper-roman;
+	}
+	/*here we changed the ordered lists from numerical to roman numerals */
+ul {
+list-style-type: square;
+} /* here we made the unordered list from bullet points to square */
