@@ -1,0 +1,22 @@
+/* we will add some style to the table we made. we can add things such as
+border property (adds border around cells/data), hover selector (highlights table
+as it is hovered over) and background-color(changes background color of rows) */
+table {
+	border: 3px solid gold
+	}
+	/* in the above code we added a thin gold border around the cells */
+	/* to add the hover effect */
+	td:hover {
+	background-color: orange;
+	color: black;
+	} /* This will make it so that the background color of the cells will turn to
+	orange and the font to black when we hover the mouse over them */
+	tr, th {
+	  background-color: black;
+	  color: red;
+	  } /* this makes the top row have a black background and the font be
+	  a red */
+	  tr, td {
+	  background-color: darkgreen;
+	  color: white;
+	  } /* this is for the remaining rows */
